@@ -49,7 +49,7 @@ We build reliable, scalable solutions with:
 🌐 **Website:** [velyorix.com](https://velyorix.com)  
 
 Follow us for updates and new projects:  
-[![Discord](https://img.shields.io/discord/1139920104616898690?stylefor-the-badge&logo=discord&logoColor=white)](https://discord.gg/a9P9HnUwJk/)
+[![Discord](https://img.shields.io/discord/1139920104616898690?stylefor-the-badge&logo=discord&logoColor=white)](https://discord.gg/be2uN27BZW/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=61567326034975)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuketsu/)
 
