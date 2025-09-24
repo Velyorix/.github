@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://velyorix.com/logo_text_white1.webp" alt="Velyorix Logo" width="150" />
+  <img src="https://velyorix.com/assets/images/logo.png" alt="Velyorix Logo" width="150" />
 
 # 🌌 **Velyorix**
 ### Transforming Ideas into Innovation
