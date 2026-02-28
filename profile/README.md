@@ -26,7 +26,7 @@
 ## 🚀 **Highlighted Projects**
 🎯 **Discover our innovative work**:
 
-- **[Techpedia](https://github.com/Velyorix/techpedia)**: An interactive wiki for tech enthusiasts.  
+- **[VelBackuper](https://github.com/Velyorix/velbackuper)**: CLI backup tool for databases, files, and web configs to S3-compatible 
 - **[VelySend](https://github.com/Velyorix/velysend)**: A powerful email management tool with SMTP integration.  
 - **[License Server](https://github.com/Velyorix/license-server)**: Secure license management for microservices.  
 
